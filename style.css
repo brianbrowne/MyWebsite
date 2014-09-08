@@ -1,0 +1,57 @@
+html
+{
+text-align:center;
+margin-top:25px;
+}
+
+body
+{
+ margin: 0 auto;
+text-align:center;
+border: 5px solid #87cefa;
+background: #dddddd;
+width: 850px;
+border-radius: 15px;
+
+}
+
+#header{
+border-radius: 10px 10px 0px 0px;
+margin-top:-21px;
+background-color:#87cefa;
+}
+
+ul
+{
+margin-top:-22px;
+
+list-style-type: none;
+background-color:#87cefa;
+text-align:center;
+height:40px;
+}
+
+li
+{
+display:inline;
+margin: 0px;
+font-size: 20px;
+text-align:center;
+color:#FFFFFF;
+width:77px;
+}
+
+#mainbody
+{
+text-align:left;
+}
+
+#mycvMainBody{
+text-align:center;
+}
+
+#firstPart
+{
+display:none;
+text-align:left;
+}
